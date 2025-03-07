@@ -10,11 +10,6 @@
     <li>Course & Topic Management: Organize courses by topics.</li>
     <li>Reporting: View student grades and course performance.</li>
 </ul>
-<p>Technologies:</p>
-<ul>
-    <li>SQL: Database management and stored procedures.</li>
-    <li>Relational Database: Ensures data integrity and efficiency.</li>
-</ul>
 <p>Why Use It?</p>
 <ul>
     <li>Saves time with automated processes.</li>
